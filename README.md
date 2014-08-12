@@ -1,4 +1,10 @@
 alice-is-my-wife
 ================
 
-An android app to manage my sleep cycle.
+ちゃんと朝起きておはようしないとアリスがどんどん不機嫌になっていくアプリ。
+Wear 対応したい。
+
+Designdoc
+===
+
+nil yet
